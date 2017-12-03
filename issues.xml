@@ -1,0 +1,10 @@
+<application>
+  <component name="YouTrack Issues">
+    <option name="persistentIssues">
+      <map>
+        <entry key="pybot dee@http://dee.myjetbrains.com" value="[]" />
+        <entry key="pybot dee@https://myjetbrains.com" value="[]" />
+      </map>
+    </option>
+  </component>
+</application>
