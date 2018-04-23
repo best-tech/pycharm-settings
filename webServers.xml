@@ -6,6 +6,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="44d9d8d7-2b39-4812-abf9-9f181025a173" name="root@do.4098.ru:22" url="http:///">
+        <fileTransfer host="do.4098.ru" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
